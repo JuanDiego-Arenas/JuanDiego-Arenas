@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @ JuanDiego-Arenas
 * 👀 I'm interested in programming, video games, self-study, guitar, books and pc hardware ...
-* 🌱 I am currently learning Python, java, c # / c ++ and web programming (HTML, CSS and javascript)
+* 🌱 I am currently learning Python
 ---
 
 ## 🖤 Get in touch:

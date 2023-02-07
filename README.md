@@ -4,7 +4,7 @@
 ---
 
 ## 🖤 Get in touch:
-* ✨ Email: Arenas9094@gmail.com
+* ✨ Email: Arenas250421@gmail.com
 * ✨ Instagram:
 * ✨ Twitter:
 

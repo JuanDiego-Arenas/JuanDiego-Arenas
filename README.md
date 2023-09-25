@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan Diego Arenas
 
-<p href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=38E857&center=true&width=435&lines=%40JuanDiego-Arenas;JavaScript+Developer+;Node.js+Developer++" alt="Typing SVG" /></p>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=38E857&center=true&width=435&lines=%40JuanDiego-Arenas;JavaScript+Developer+;Node.js+Developer++" alt="Typing SVG" /></p>
 
 - 👀 I'm interested in programming, video games, self-study, guitar, books and pc hardware ...
 - 🌱 I am currently learning Python
@@ -65,9 +65,12 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![git1](https://github-readme-stats.vercel.app/api?username=juandiego-arenas&show_icons=true&theme=tokyonight&hide_border=true&locale=en)<br/>
 ![git2](https://github-readme-streak-stats.herokuapp.com/?user=JuanDiego-Arenas&theme=tokyonight&hide_border=true)<br/>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDiego-Arenas&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 

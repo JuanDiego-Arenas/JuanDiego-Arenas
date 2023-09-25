@@ -2,11 +2,12 @@
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=38E857&center=true&width=435&lines=%40JuanDiego-Arenas;JavaScript+Developer+;Node.js+Developer++" alt="Typing SVG" /></p>
 
-- 👀 I'm interested in programming, video games, self-study, guitar, books and pc hardware ...
-- 🌱 I am currently learning Python
+- 👀 I'm interested in backend programming, video games, guitar, books and PC hardware...
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juandiego-arenas&label=Profile%20views&color=000000&style=flat" alt="JuanDiego-Arenas" /> </p>
+<p align="center" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JuanDiego-Arenas&label=Profile%20Views&icon=2&pretty=true" alt="JuanDiego-Arenas" />
+</p>
 
 <!-- ## 💫 About Me
 
@@ -74,19 +75,11 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies 1](https://github-profile-trophy.vercel.app/?username=JuanDiego-Arenas&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-[![GitHub Trophies 2](https://visitcount.itsvg.in/api?id=JuanDiego-Arenas&icon=2&color=6)](https://visitcount.itsvg.in)
-
----
-
-[![GitHub Trophies 0](https://visitcount.itsvg.in/api?id=JuanDiego-Arenas&label=Profile%20Views&icon=3&pretty=true)](https://visitcount.itsvg.in)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JuanDiego-Arenas&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ## 💰 You can help me by Donating
 
-<p><a href="https://buymeacoffee.com/JuanDiegodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JuanDiegodev" /></a></p>
+<p><a href="https://buymeacoffee.com/JuanDiegodev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee JuanDiego.dev"/></a></p>
 <br>
 <br>
 <br>

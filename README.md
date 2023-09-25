@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Diego Arenas
+<h1 align="center">👋 Hi, I'm Juan Diego Arenas</h1>
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=38E857&center=true&width=435&lines=%40JuanDiego-Arenas;JavaScript+Developer+;Node.js+Developer++" alt="Typing SVG" /></p>
 

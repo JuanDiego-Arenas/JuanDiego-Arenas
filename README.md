@@ -2,7 +2,11 @@
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=400&color=38E857&center=true&width=435&lines=%40JuanDiego-Arenas;JavaScript+Developer+;Node.js+Developer++" alt="Typing SVG" /></p>
 
-- 👀 I'm interested in backend programming, video games, guitar, books and PC hardware...
+- 👋 Greetings! I'm Juan Diego, a dynamic software developer and skilled backend programmer. My expertise spans cutting-edge technologies, including JavaScript, Node.js, React.js, and Python. 🚀 With a passion for continuous learning, I'm committed to staying ahead by embracing new technologies while refining my existing skills.
+
+- What sets me apart is not just my technical proficiency, but also my knack for leadership and effective teamwork. 🤝 I thrive in collaborative environments, bringing innovative solutions to the table and fostering a positive team spirit.
+
+- Explore my portfolio to witness firsthand how my commitment to excellence and love for coding translate into impactful projects. 🌐 Let's embark on a journey together where creativity meets functionality, and where every line of code tells a story of innovation. 🚀💻
 <br>
 
 <p align="center" href="https://visitcount.itsvg.in">
@@ -20,7 +24,7 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-diego-arenas-cuellar-a5a234252/)
+[![GitHub Pages](https://img.shields.io/badge/Portafolio-%23303030?style=for-the-badge&logo=GitHub)](https://juandiego-arenas.github.io/portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/juan-diego-arenas-cuellar-a5a234252/)
 
 ## 💻 Languages and Tools
 
